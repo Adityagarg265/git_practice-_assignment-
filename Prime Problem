@@ -8,7 +8,7 @@
     }
 
 
-    if(count == 2){
+    if(count == 5){
         console.log("Yes");
     }
     else {
